@@ -1,3 +1,10 @@
+
+email = sologroupone@protonmail.com
+
+
+
+
+
 <p align="center">
   <img alt="Evilginx2 Logo" src="https://raw.githubusercontent.com/linkshub832226/evilginx2/master/media/img/evilginx2-logo-512.png" height="160" />
   <p align="center">
